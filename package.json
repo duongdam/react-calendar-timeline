@@ -1,5 +1,5 @@
 {
-  "name": "react-calendar-timeline-drag-n-drop",
+  "name": "@duongdam/react-calendar-timeline-drag-n-drop",
   "version": "1.0.1",
   "description": "react calendar timeline",
   "main": "lib/index.js",
@@ -24,7 +24,7 @@
   "homepage": "https://github.com/namespace-ee/react-calendar-timeline",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/namespace-ee/react-calendar-timeline.git"
+    "url": "https://github.com/duongdam/react-calendar-timeline.git"
   },
   "author": "duong.dam@classfunc.com",
   "contributors": [
